@@ -60,7 +60,7 @@ Everything in this repository is licensed under the [CC BY 4.0 License][license]
 
 [download-reflex]: https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/tag/v11.3-5-27732ae-MOONLIGHT
 
-[why-discontinued]: 
+[why-discontinued]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/1.1.%20Why%20Reflex%20was%20discontinued.md
 
-[current-state]: 
+[current-state]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/1.2.%20The%20current%20state%20of%20Reflex%20and%20the%20dev%20team.md
 
