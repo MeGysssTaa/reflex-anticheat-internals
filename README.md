@@ -1,11 +1,11 @@
-# Reflex Anticheat Internals
+# Reflex Anticheat — Internals
 
 ![][reflex-logo-big]
 
 
 
 
-## About
+## ℹ️ About
 
 **Reflex** was a paid server-side anticheat for Minecraft (Bukkit), which was actively developed from 2016 to 2021. This repository serves as its primary legacy. It hosts the latest available anticheat version, which is downloadable and runnable for free; detailed low-level descriptions of Reflex's checks and techiques that it used to fight cheating and provide user friendliness; "stories" and reasoning on why the project was discontinued; and maybe more.
 
@@ -16,7 +16,7 @@ Many of the documents in this repository might seem large for most people, but a
 
 
 
-## Table of Contents
+## 📚 Table of Contents
 
 1. Maintenance/story
 
