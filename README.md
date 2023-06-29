@@ -16,6 +16,18 @@ Everything in this repository is licensed under the [CC BY 4.0 License][license]
 
 ## Table of Contents
 
+1. Maintenance/story
+
+   1.1. [Why Reflex was discontinued][why-discontinued]
+
+   1.2. [The current state of Reflex and the dev team][current-state]
+
+2. [Download the latest version of Reflex with all Reflex Moonlight features unlocked for free][download-reflex]
+
+3. Technical details
+
+   
+
 
 
 
@@ -33,8 +45,20 @@ Everything in this repository is licensed under the [CC BY 4.0 License][license]
 
 
 [reflex-logo-big]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/8a35007fca0904771d767a1ad466e1d140a79ba6/assets/Reflex%20Logo%20Big.png
+
 [reflex-anticheat-internals]: https://github.com/MeGysssTaa/reflex-anticheat-internals
+
 [dev-german]: https://github.com/MeGysssTaa
+
 [dev-florian]: https://github.com/sinnlosername
+
 [dev-steven]: https://github.com/StevenKGER
+
 [license]: http://creativecommons.org/licenses/by/4.0
+
+[download-reflex]: https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/tag/v11.3-5-27732ae-MOONLIGHT
+
+[why-discontinued]: 
+
+[current-state]: 
+
