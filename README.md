@@ -34,7 +34,9 @@ Everything in this repository is licensed under the [CC BY 4.0 License][license]
 
 ## License
 
- [Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team: [DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], Manic97 (Michael) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ 
+[Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team: [DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], Manic97 (Michael) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+[license]: http://creativecommons.org/licenses/by/4.0
 
 
 
@@ -53,8 +55,6 @@ Everything in this repository is licensed under the [CC BY 4.0 License][license]
 [dev-florian]: https://github.com/sinnlosername
 
 [dev-steven]: https://github.com/StevenKGER
-
-[license]: http://creativecommons.org/licenses/by/4.0
 
 [download-reflex]: https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/tag/v11.3-5-27732ae-MOONLIGHT
 
