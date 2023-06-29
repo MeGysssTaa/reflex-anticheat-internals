@@ -28,6 +28,8 @@ Many of the documents in this repository might seem large for most people, but a
 
 3. Technical details
 
+   3.1. [Prerequisites][prerequisites]
+
    
 
 
@@ -65,4 +67,6 @@ Many of the documents in this repository might seem large for most people, but a
 [why-discontinued]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/1.1.%20Why%20Reflex%20was%20discontinued.md
 
 [current-state]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/1.2.%20The%20current%20state%20of%20Reflex%20and%20the%20dev%20team.md
+
+[prerequisites]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.1.%20Prerequisites.md
 
