@@ -31,8 +31,10 @@ Many of the documents in this repository might seem large for most people, but a
    3.1. [Prerequisites][prerequisites]
 
    3.2. KillAura checks (+ AimBot, AimAssist, TriggerBot, and some more)
+   
+   - 3.2.1. [Description of the `ka.acr` check][check.ka.acr]
 
-      3.2.1. [Description of the `ka.acr` check][check.ka.acr]
+   - 3.2.2. [Description of the `ka.blc` check][check.ka.blc]
 
    
 
@@ -75,6 +77,8 @@ Many of the documents in this repository might seem large for most people, but a
 [prerequisites]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.1.%20Prerequisites.md
 
 [check.ka.acr]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.1.%20Description%20of%20the%20%60ka.acr%60%20check.md
+
+[check.ka.blc]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.2.%20Description%20of%20the%20%60ka.blc%60%20check.md
 
 
 
