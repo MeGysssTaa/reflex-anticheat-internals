@@ -41,9 +41,10 @@ Many of the documents in this repository might seem large for most people, but a
 
 
 
+
 ---
 
-## License
+## 📄 License
 
 [Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team: [DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], Manic97 (Michael) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
@@ -57,7 +58,11 @@ Many of the documents in this repository might seem large for most people, but a
 
 [dev-steven]: https://github.com/StevenKGER
 
-## [Return to main page][reflex-anticheat-internals]
+---
+
+## [🏠 Return to main page][reflex-anticheat-internals]
+
+---
 
 
 
