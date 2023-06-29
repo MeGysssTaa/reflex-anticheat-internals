@@ -1,0 +1,48 @@
+# 3.2.1. Description of the `ka.acr` check
+
+---
+### TL;DR — If `yawDiff` or `pitchDiff` is a multiple of `0.1` or similar, they are probably cheating.
+---
+
+
+
+
+> **From [Reflex Wiki][reflex-wiki]:** Checks rotation accuracy during combat.
+
+
+
+Legit players' head rotations are unevenly distributed and random, imperfect. Usually, a player moves their head like `0.129394` degrees per mouse move or similar. However, some of the worst AimBots and AimAssists may produce "perfect", or "accurate", rotation distances like `0.5`, `2.0`, `7.25`, and so on.
+
+A very simple yet probably a must-have check that almost never generates false positives but also barely detects anything. It's pretty popular and many modern anticheats actually have it as well. Used to detect older AimAssists of "ghost clients" like Vape and Incognito, as well as Aimbots in some even modern hacked clients. But the overall efficiency is meh.
+
+The idea is to just check how much player's head moved every tick (or every move) along each of the axes. You can use the `PlayerMoveEvent` for that, for example. Then compute the angles: `yawDiff = | oldYaw - newYaw |`. Same for pitch. If any of those is a multiple of `1.0`, `0.5`, `0.1`, or some other numbers like these (although you really shouldn't go too low), then the player exhibits some AimBot/AimAssist/KillAura patterns.
+
+You shouldn't insta-ban since, surprisingly, some players occasionally produce these suspicious rotations as well. But they do so rarely. Just check the flag (violation) frequency, and if it's too high — punish the hacker. Properly setup, this check never false kicks or bans.
+
+
+
+
+## License
+
+[Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team: [DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], Manic97 (Michael) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+[license]: http://creativecommons.org/licenses/by/4.0
+
+[reflex-anticheat-internals]: https://github.com/MeGysssTaa/reflex-anticheat-internals
+
+[dev-german]: https://github.com/MeGysssTaa
+
+[dev-florian]: https://github.com/sinnlosername
+
+[dev-steven]: https://github.com/StevenKGER
+
+## [Return to main page][reflex-anticheat-internals]
+
+
+
+
+
+[reflex-wiki]: https://github.com/MeGysssTaa/ReflexIssueTracker/wiki
+
+
+
