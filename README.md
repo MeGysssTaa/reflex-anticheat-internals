@@ -11,6 +11,8 @@
 
 Everything in this repository is licensed under the [CC BY 4.0 License][license] (see the bottom of this file/page for details).
 
+Many of the documents in this repository might seem large for most people, but a **TL;DR** version is provided in the beginning of most of them, which don't carry the emotion or some important nuances, but still outline the most important information (summary).
+
 
 
 
