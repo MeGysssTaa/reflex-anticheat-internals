@@ -39,7 +39,10 @@ Many of the documents in this repository might seem large for most people, but a
    - 3.2.3. [Description of the `ka.ra` check — "To click, or not to click" accuracy][check.ka.ra]
   
    - 3.2.4. [Description of the `ka.yst` check — Absurdly complicated statistical inference for Aimbot detection][check.ka.yst]
+  
+   3.3. Lag detection
 
+   - 3.3.1. [Description of the `badpcks.spf` check — Abusing MC inventory to detect Ping Spoof / Fake Lag][check.badpcks.spf]
    
 
 
@@ -105,6 +108,8 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 [check.ka.ra]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/44278f9677985ca0228623f2664a3f97afa76dc7/texts/3.2.3.%20Description%20of%20the%20%60ka.ra%60%20check.md
 
 [check.ka.yst]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/bded082d37bfc4f3b49629e79b0ee0fc6849bf6e/texts/3.2.4.%20Description%20of%20the%20%60ka.yst%60%20check.md
+
+[check.badpcks.spf]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/5a79038e28d6984371c741b0d2981b8eba795444/texts/3.3.1.%20Description%20of%20the%20%60badpcks.spf%60%20check.md
 
 
 
