@@ -37,6 +37,8 @@ Many of the documents in this repository might seem large for most people, but a
    - 3.2.2. [Description of the `ka.blc` check][check.ka.blc]
   
    - 3.2.3. [Description of the `ka.ra` check][check.ka.ra]
+  
+   - 3.2.4. [Description of the `ka.yst` check][check.ka.yst]
 
    
 
@@ -47,6 +49,8 @@ Many of the documents in this repository might seem large for most people, but a
 ---
 
 ## 📄 License
+
+### ⚠ IMPORTANT: This repository also hosts some pics, just for the memes, which are used throughout the files. They belong to their respective owners (if any), no claims made for them by Reflex Development Team. If you have any problems with them, please let us know, and we'll address any issues immediately!
 
 [Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team: [DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], Manic97 (Michael) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
@@ -89,6 +93,9 @@ Many of the documents in this repository might seem large for most people, but a
 [check.ka.blc]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.2.%20Description%20of%20the%20%60ka.blc%60%20check.md
 
 [check.ka.ra]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/44278f9677985ca0228623f2664a3f97afa76dc7/texts/3.2.3.%20Description%20of%20the%20%60ka.ra%60%20check.md
+
+[check.ka.yst]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/bded082d37bfc4f3b49629e79b0ee0fc6849bf6e/texts/3.2.4.%20Description%20of%20the%20%60ka.yst%60%20check.md
+
 
 
 
