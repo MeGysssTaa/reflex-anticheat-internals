@@ -32,15 +32,25 @@ Many of the documents in this repository might seem large for most people, but a
 
    3.2. KillAura checks (+ AimBot, AimAssist, TriggerBot, and some more)
    
-   - 3.2.1. [Description of the `ka.acr` check][check.ka.acr]
+   - 3.2.1. [Description of the `ka.acr` check — Perfectly smooth rotations][check.ka.acr]
 
-   - 3.2.2. [Description of the `ka.blc` check][check.ka.blc]
+   - 3.2.2. [Description of the `ka.blc` check — "Lazy Aim" and aiming inconsistencies][check.ka.blc]
   
-   - 3.2.3. [Description of the `ka.ra` check][check.ka.ra]
+   - 3.2.3. [Description of the `ka.ra` check — "To click, or not to click" accuracy][check.ka.ra]
   
-   - 3.2.4. [Description of the `ka.yst` check][check.ka.yst]
+   - 3.2.4. [Description of the `ka.yst` check — Absurdly complicated statistical inference for Aimbot detection][check.ka.yst]
 
    
+
+
+
+
+
+## 💡 Notes
+
+Contents disclosed in this repository are, of course, not exhaustive. There are quite many other checks and tricks in Reflex which will stay behind the curtains, at least for now. We may be expanding the list of published materials with new exciting stuff later (or maybe not). Anyway, we hope that the entire Minecraft community will benefit from this all in some way!
+
+
 
 
 
