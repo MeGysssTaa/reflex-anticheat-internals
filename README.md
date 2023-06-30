@@ -65,7 +65,7 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 ---
 
-## 📄 License
+## ⚖️ License
 
 ### ⚠ IMPORTANT: This repository also hosts some pics, just for the memes, which are used throughout the files. They belong to their respective owners (if any), no claims made for them by Reflex Development Team. If you have any problems with them, please let us know, and we'll address any issues immediately!
 
