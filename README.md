@@ -7,7 +7,7 @@
 
 ## ℹ️ About
 
-**Reflex** was a paid server-side anticheat for Minecraft (Bukkit), which was actively developed from 2016 to 2021. This repository serves as its primary legacy. It hosts the latest available anticheat version, which is downloadable and runnable for free; detailed low-level descriptions of Reflex's checks and techiques that it used to fight cheating and provide user friendliness; "stories" and reasoning on why the project was discontinued; and maybe more.
+**Reflex** was a premium server-side anticheat for Minecraft (Bukkit), which was actively developed from 2016 to 2021. This repository serves as its primary legacy. It hosts the latest available anticheat version, which is downloadable and runnable for free; detailed low-level descriptions of Reflex's checks and techiques that it used to fight cheating and provide user friendliness; "stories" and reasoning on why the project was discontinued; and maybe more.
 
 Everything in this repository is licensed under the [CC BY 4.0 License][license] (see the bottom of this file/page for details).
 
@@ -35,6 +35,8 @@ Many of the documents in this repository might seem large for most people, but a
    - 3.2.1. [Description of the `ka.acr` check][check.ka.acr]
 
    - 3.2.2. [Description of the `ka.blc` check][check.ka.blc]
+  
+   - 3.2.3. [Description of the `ka.ra` check][check.ka.ra]
 
    
 
@@ -85,6 +87,10 @@ Many of the documents in this repository might seem large for most people, but a
 [check.ka.acr]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.1.%20Description%20of%20the%20%60ka.acr%60%20check.md
 
 [check.ka.blc]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.2.%20Description%20of%20the%20%60ka.blc%60%20check.md
+
+[check.ka.ra]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/44278f9677985ca0228623f2664a3f97afa76dc7/texts/3.2.3.%20Description%20of%20the%20%60ka.ra%60%20check.md
+
+
 
 
 
