@@ -46,6 +46,8 @@ Many of the documents in this repository might seem large for most people, but a
   
    - 3.3.2. [Reliable player lag detection techniques][lag-accounting]
    
+   3.4. [Reflex Moonlight MC 1.8.x remote cheat files detection][desc-and-list-of-cheat-files-det]
+
 
 
 
@@ -114,6 +116,8 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 [check.badpcks.spf]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/5a79038e28d6984371c741b0d2981b8eba795444/texts/3.3.1.%20Description%20of%20the%20%60badpcks.spf%60%20check.md
 
 [lag-accounting]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/4b8965deb58c1ee376512e74fafcb0ddb4dc85b9/texts/3.3.2.%20Reliable%20player%20lag%20detection.md
+
+[desc-and-list-of-cheat-files-det]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/d52562bb6e8258f5745ba89ebade1475a2c0203a/texts/3.4.%20Reflex%20Moonlight%20remote%20cheat%20files%20detection.md
 
 
 
