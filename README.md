@@ -18,7 +18,7 @@ Many of the documents in this repository might seem large for most people, but a
 
 ## 📚 Table of Contents
 
-1. Maintenance/story
+1. Maintenance / Story
 
    1.1. [Why Reflex was discontinued][why-discontinued]
 
