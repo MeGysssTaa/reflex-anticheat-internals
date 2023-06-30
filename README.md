@@ -109,15 +109,15 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 [check.ka.blc]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.2.%20Description%20of%20the%20%60ka.blc%60%20check.md
 
-[check.ka.ra]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/texts/3.2.3.%20Description%20of%20the%20%60ka.ra%60%20check.md
+[check.ka.ra]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.3.%20Description%20of%20the%20%60ka.ra%60%20check.md
 
-[check.ka.yst]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/texts/3.2.4.%20Description%20of%20the%20%60ka.yst%60%20check.md
+[check.ka.yst]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.4.%20Description%20of%20the%20%60ka.yst%60%20check.md
 
-[check.badpcks.spf]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/texts/3.3.1.%20Description%20of%20the%20%60badpcks.spf%60%20check.md
+[check.badpcks.spf]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.3.1.%20Description%20of%20the%20%60badpcks.spf%60%20check.md
 
-[lag-accounting]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/texts/3.3.2.%20Reliable%20player%20lag%20detection.md
+[lag-accounting]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.3.2.%20Reliable%20player%20lag%20detection.md
 
-[desc-and-list-of-cheat-files-det]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/texts/3.4.%20Reflex%20Moonlight%20remote%20cheat%20files%20detection.md
+[desc-and-list-of-cheat-files-det]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.4.%20Reflex%20Moonlight%20remote%20cheat%20files%20detection.md
 
 
 
