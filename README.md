@@ -71,6 +71,18 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 
 
+## 🦸‍♂️ Contributors
+
+Huge thanks to **[all people who had been helping us make Reflex awesome][contrib]**! As well to all the people who kept messaging us and spamming *"free Reflex when*". We really appreciated your interest in the project! 
+
+
+
+
+
+
+
+
+
 ---
 
 ## ⚖️ License
@@ -134,6 +146,8 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 [check.badpcks.ign]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.6.%20Description%20of%20the%20%60badpcks.ign%60%20check.md
 
 [check.ka.ray]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.5.%20Description%20of%20the%20%60ka.ray%60%20check.md
+
+[contrib]: https://github.com/MeGysssTaa/ReflexIssueTracker/wiki/Contributors-List
 
 
 
