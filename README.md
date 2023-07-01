@@ -73,7 +73,7 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 
 
-## 🦸‍♂️ Contributors
+## 🤝 Contributors
 
 Huge thanks to **[all people who had been helping us make Reflex awesome][contrib]**! As well to all the people who kept messaging us and spamming *"free Reflex when*". We really appreciated your interest in the project! 
 
