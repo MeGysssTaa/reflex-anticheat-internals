@@ -119,7 +119,7 @@ Huge thanks to **[all people who had been helping us make Reflex awesome][contri
 
 [reflex-logo-big]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/8a35007fca0904771d767a1ad466e1d140a79ba6/assets/Reflex%20Logo%20Big.png
 
-[download-reflex]: https://github.com/MeGysssTaa/reflex-anticheat-internals/releases/tag/v11.3-5-27732ae-MOONLIGHT
+[download-reflex]: https://github.com/MeGysssTaa/reflex-anticheat-internals/releases
 
 [why-discontinued]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/1.1.%20Why%20Reflex%20was%20discontinued.md
 
