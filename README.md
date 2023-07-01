@@ -89,7 +89,7 @@ Huge thanks to **[all people who had been helping us make Reflex awesome][contri
 
 ## ⚖️ License
 
-### ⚠ IMPORTANT: This repository also hosts some pics, just for the memes, which are used throughout the files. They belong to their respective owners (if any), no claims made for them by Reflex Development Team. If you have any problems with them, please let us know, and we'll address any issues immediately!
+### IMPORTANT: This repository also hosts some pics, just for the memes, which are used throughout the files. They belong to their respective owners (if any), no claims made for them by Reflex Development Team. If you have any problems with them, please let us know, and we'll address any issues immediately!
 
 [Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team ([DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], and others) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
