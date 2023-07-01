@@ -1,0 +1,65 @@
+# 3.6. Description of the `badpcks.ign` check
+
+---
+### ⚡️ TL;DR — When players are AFK, teleport them to themselves every second. If they're ignoring many packets, but responding to `Transaction`/`KeepAlive`, they're probably cheating.
+---
+
+
+
+
+
+
+### 🚀 "Active" component — Prevention
+
+You can easily stop Freecam and Blink cheats from working in most hacked clients by just teleporting idle players to themselves. This works, because in most hacked clients, when Freecam or Blink is enabled, the client just isn't sending (most) of the packets. But they are most often still receiving them and even handling them properly. This means that sending a *"your position is actually `(x,y,z)`, sir"* packet, we can prevent players from moving when they aren't supposed to. From a hacker's perspective, this looks like they're flying a small distance away from their character, but are being constantly teleported back.
+
+
+
+
+
+
+### 👀 "Passive" component — Detection
+
+As mentioned earlier, it's only *sometimes* that hacked clients completely pause communication when Freecam or Blink is enabled. In many cases, they'll stop sending tick (update) packets, but will still be responding to packets like inventory `Transaction` or ping `KeepAlive`. Since a legit vanilla client normally keeps sending tick packets even when standing still (although it may reduce the frequency of doing so to, say, 1 per second instead of 20 per second), you can use this knowledge to also *detect* and *kick or even ban* poor Freecam/Blink users.
+
+
+
+
+
+
+
+
+
+
+---
+
+## ⚖️ License
+
+[Reflex Anticheat Internals][reflex-anticheat-internals] © 2023 by Reflex Development Team: [DarksideCode (German)][dev-german], [sinnlosername (Florian)][dev-florian], [StevenKGER (Steven)][dev-steven], Manic97 (Michael) is licensed under [CC BY 4.0][license]. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+
+[license]: http://creativecommons.org/licenses/by/4.0
+
+[reflex-anticheat-internals]: https://github.com/MeGysssTaa/reflex-anticheat-internals
+
+[dev-german]: https://github.com/MeGysssTaa
+
+[dev-florian]: https://github.com/sinnlosername
+
+[dev-steven]: https://github.com/StevenKGER
+
+---
+
+## [🏠 Return to main page][reflex-anticheat-internals]
+
+---
+
+
+
+
+
+
+
+
+[reflex-wiki]: https://github.com/MeGysssTaa/ReflexIssueTracker/wiki
+
+

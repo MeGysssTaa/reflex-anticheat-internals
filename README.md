@@ -39,14 +39,22 @@ Many of the documents in this repository might seem large for most people, but a
    - 3.2.3. [Description of the `ka.ra` check — "To click, or not to click" accuracy][check.ka.ra]
   
    - 3.2.4. [Description of the `ka.yst` check — Absurdly complicated statistical inference for Aimbot detection][check.ka.yst]
+
+   - 3.2.5. [Description of the `ka.ray` check — Try to force players to actually look at their target and click properly][check.ka.ray]
   
-   3.3. Lag detection
+   3.3. Lag accounting
 
    - 3.3.1. [Description of the `badpcks.spf` check — Abusing MC inventory to detect Ping Spoof / Fake Lag][check.badpcks.spf]
   
    - 3.3.2. [Reliable player lag detection techniques][lag-accounting]
    
+   - 3.3.3. [Analyze packets instead of events when possible][packets-over-events]
+
    3.4. [Reflex Moonlight MC 1.8.x remote cheat files detection][desc-and-list-of-cheat-files-det]
+
+   3.5. [Spoofing health to break ESP and KillAura and even crash hacked clients][spoofing-health]
+
+   3.6. [Description of the `badpcks.ign` check — Detect and/or prevent Freecam and Blink][check.badpcks.ign]
 
 
 
@@ -119,8 +127,13 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 [desc-and-list-of-cheat-files-det]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.4.%20Reflex%20Moonlight%20remote%20cheat%20files%20detection.md
 
+[packets-over-events]:
 
+[spoofing-health]:
 
+[check.badpcks.ign]:
+
+[check.ka.ray]:
 
 
 
