@@ -131,7 +131,7 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 [spoofing-health]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.5.%20Spoofing%20health.md
 
-[check.badpcks.ign]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.6.%20Description%20of%20the%20%60badpcks.ign%60%20check
+[check.badpcks.ign]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.6.%20Description%20of%20the%20%60badpcks.ign%60%20check.md
 
 [check.ka.ray]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.5.%20Description%20of%20the%20%60ka.ray%60%20check.md
 
