@@ -127,13 +127,13 @@ Contents disclosed in this repository are, of course, not exhaustive. There are 
 
 [desc-and-list-of-cheat-files-det]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.4.%20Reflex%20Moonlight%20remote%20cheat%20files%20detection.md
 
-[packets-over-events]:
+[packets-over-events]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.3.3.%20Analyze%20packets%20instead%20of%20events%20when%20possible.md
 
-[spoofing-health]:
+[spoofing-health]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.5.%20Spoofing%20health.md
 
-[check.badpcks.ign]:
+[check.badpcks.ign]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.6.%20Description%20of%20the%20%60badpcks.ign%60%20check
 
-[check.ka.ray]:
+[check.ka.ray]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.5.%20Description%20of%20the%20%60ka.ray%60%20check.md
 
 
 
