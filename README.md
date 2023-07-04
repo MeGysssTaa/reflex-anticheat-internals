@@ -58,6 +58,8 @@ Many of the documents in this repository might seem large for most people, but a
 
    3.6. [Description of the `badpcks.ign` check — Detect and/or prevent Freecam and Blink][check.badpcks.ign]
 
+   3.7. [Detecting ScaffoldWalk and Tower (building) hacks][scaffold]
+
 
 
 
@@ -150,6 +152,8 @@ Huge thanks to **[all people who had been helping us make Reflex awesome][contri
 [check.ka.ray]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.2.5.%20Description%20of%20the%20%60ka.ray%60%20check.md
 
 [contrib]: https://github.com/MeGysssTaa/ReflexIssueTracker/wiki/Contributors-List
+
+[scaffold]: https://github.com/MeGysssTaa/reflex-anticheat-internals/blob/main/texts/3.7.%20Detecting%20ScaffoldWalk%20and%20Tower%20(building)%20hacks.md
 
 
 
